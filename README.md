@@ -171,6 +171,8 @@ Vue.use(ElTableFooter)
 </script>
 ```
 ### 如果需要合并单元格 
+```html
+
 <template>
   <div>
     <el-table
@@ -459,6 +461,7 @@ Vue.use(ElTableFooter)
         }
     }
 </script>
+```
 
 ## API
 
