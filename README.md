@@ -235,7 +235,6 @@ Vue.use(ElTableFooter)
     <el-table-footer :data="footerData" ref="tableFooter"></el-table-footer>
   </div>
 </template>
-
 <script>
     export default {
         computed: {
