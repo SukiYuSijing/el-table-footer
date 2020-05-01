@@ -6,8 +6,6 @@
 
 [点击查看在线demo](https://code-farmer-i.github.io/el-table-footer/dist/)
 
-[点击查看在线 合并单元格demo](https://code-farmer-i.github.io/el-table-footer/dist/index2.html)
-
 ## Install
 ```shell
 npm install el-table-footer -S
